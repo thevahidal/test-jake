@@ -9,7 +9,7 @@ gtag_id = "G-33WB8LVHR6"
 
 [[sections]]
 title = "Movies"
-description = "Here are some of my movies"
+description = "Test title"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
